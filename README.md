@@ -29,7 +29,7 @@ Lambda funksiyalaridan argument sifatida boshqa funksyani qabul qiluvchi funksiy
 
 
 
-
+![CatComputerGIF](https://user-images.githubusercontent.com/87179972/139670125-fe49a019-68bb-4aa7-a13b-23801a4d0154.gif)
 
 
 
